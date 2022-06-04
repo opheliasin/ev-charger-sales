@@ -22,6 +22,7 @@ Through this project we are hoping to answer the following questions:
 - [Electric Vehicle Sales by Zipcode from the California Energy Commission](https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data)
 - [Electric Vehicle Charging Station Locations from the U.S. Department of Energy](https://afdc.energy.gov/fuels/electricity_locations.html#/find/nearest?fuel=ELEC)
 - [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+- [2019 Cartographic Boundary Shapefile, 2010 ZIP Code Tabulation Areas for United States, 1:500,000](https://catalog.data.gov/dataset/2019-cartographic-boundary-shapefile-2010-zip-code-tabulation-areas-for-united-states-1-500000)
 
 
 ### Python packages Used
