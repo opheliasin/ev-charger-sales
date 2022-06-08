@@ -12,7 +12,6 @@ Through this project we are hoping to answer the following questions:
 3. How can we use demographic characteristics to predict future EV sales (and need for future facility locations)?
 
 ### Methods Used
-- Linear Regression 
 - Data Visualization
 - Predictive Modeling
 - Spatial Clustering
