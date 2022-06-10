@@ -2,8 +2,6 @@
 
 This project is the final project for the class of Urban Planning 229 Urban Data Science (UCLA, Spring '22) by Harrison Frahn and Ophelia Sin. 
 
--- Project Status: Ongoing. 
-
 ## Project Objective
 The purpose of this project is to understand analyze EV sales trend and charger distribution within the State of California at the tract level. The ultimate goal is to provide insights for different levels of government as EV usage continues to expand within the state.
 Through this project we are hoping to answer the following questions:
